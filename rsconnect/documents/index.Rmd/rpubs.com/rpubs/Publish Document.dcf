@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/214691/4f6927edceca4619a2e96151447a6320
+url: http://rpubs.com/CoveredInChocolate/214691
+when: 1475484910.16992
